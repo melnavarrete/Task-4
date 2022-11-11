@@ -1,0 +1,40 @@
+
+header{
+    display: block;
+    padding: 30px ;
+    text-align: center;
+    font-weight: normal;
+    }
+    nav a {
+        color:#880808;
+    }
+header a:hover{
+    text-decoration:none;
+    }
+
+
+h1+p {
+    text-decoration:underline;
+}
+
+
+.am{
+    text-decoration:underline;
+}
+
+
+span{
+    font-style:italic;
+}
+
+p{
+    color: #555;
+}
+
+footer ul li:first-child{
+    list-style-type: none;
+}
+
+footer ul li:last-of-type{
+    font-weight: bold;
+}
